@@ -1,4 +1,4 @@
-# Projeto Jornada Milhas
+# Projeto Jornada Milhas (Alura)
 
 # Testes unitários e testes de integração
 
